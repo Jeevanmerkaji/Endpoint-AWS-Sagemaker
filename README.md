@@ -1,1 +1,1 @@
-# Endpoint-AWS-Sagemakerr
+# Endpoint-AWS-Sagemaker
