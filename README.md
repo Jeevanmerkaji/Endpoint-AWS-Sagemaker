@@ -10,8 +10,8 @@ This project demonstrates an end-to-end machine learning pipeline using AWS Sage
 - Integration with S3 for data storage.
 
 
-## Flow of th project 
-'''
+## Flow of the project 
+```plaintext
 project-name/
 ├── README.md
 ├── LICENSE
