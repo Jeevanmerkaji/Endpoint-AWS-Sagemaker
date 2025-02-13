@@ -11,7 +11,7 @@ This project demonstrates an end-to-end machine learning pipeline using AWS Sage
 
 
 ## Flow of th project 
-
+'''
 project-name/
 ├── README.md
 ├── LICENSE
@@ -20,6 +20,7 @@ project-name/
 ├── requirements.txt        # Python dependencies
 ├── research.ipynb          # raw scripting of the project
 └── script.py               # final script
+'''
 
     
 ## Installation
