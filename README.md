@@ -31,5 +31,4 @@ project-name/
 2. Install Dependencies
    pip install -r requirements.txt
 
-3.
    
